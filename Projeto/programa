@@ -1,0 +1,3 @@
+((2 3 *) 4 *);
+x = ler ("Digite um número: ");
+x 5 *;
